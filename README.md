@@ -7,5 +7,5 @@ Paul](http://github.com/johnkpaul).
 ## Usage
 
 ```
-$ npm install zivkaziv
+$ npx zivkaziv
 ```
