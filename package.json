@@ -5,14 +5,18 @@
     "main": "index.js",
     "repository": "zivkaziv/zivkaziv",
     "scripts": {
-      "postinstall": "cat info.json"
+        "postinstall": "cat info.json",
+        "run": "node ."
     },
     "keywords": [
-      "person",
-      "contact",
-      "zivkaziv",
-      "ziv kalderon"
+        "person",
+        "contact",
+        "zivkaziv",
+        "ziv kalderon"
     ],
     "author": "Ziv Kalderon <kalziv@gmail.com>",
-    "license": "GPL-3.0"
-  }
+    "license": "GPL-3.0",
+    "dependencies": {
+        "zivkaziv": "^0.0.2"
+    }
+}
