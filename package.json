@@ -6,7 +6,7 @@
     "repository": "zivkaziv/zivkaziv",
     "scripts": {
         "postinstall": "cat info.json",
-        "run": "node ."
+        "start": "node ."
     },
     "keywords": [
         "person",
