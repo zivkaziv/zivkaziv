@@ -8,6 +8,7 @@
         "postinstall": "cat info.json",
         "start": "node ."
     },
+    "bin": "./index.js",
     "keywords": [
         "person",
         "contact",
