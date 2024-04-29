@@ -1,6 +1,6 @@
 {
     "name": "zivkaziv",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "Ziv Kalderon contact info",
     "main": "index.js",
     "repository": "zivkaziv/zivkaziv",
@@ -8,7 +8,7 @@
         "postinstall": "cat info.json",
         "start": "node ."
     },
-    "bin": "node ./index.js",
+    "bin": "./index.js",
     "keywords": [
         "person",
         "contact",
