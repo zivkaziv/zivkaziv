@@ -1,4 +1,4 @@
-# searls
+# zivkaziv
 
 This is just a way to easily get my contact info from the command line.
 Shamelessly forked from the wonderful [John K.
